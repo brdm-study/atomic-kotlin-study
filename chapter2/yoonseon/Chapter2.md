@@ -298,6 +298,35 @@ numbers.takeLast()
 <img src="images/list-2.png" style="width: 300px">
 <img src="images/list-3.png" style="width: 300px">
 
+- 가변 리스트에 `reverse`, `sort` 함수를 호출하면 해당 리스트가 조작된다.
+- `sort`와 `reverse` 함수 구현체를 보면 실제로 반환타입 없다.
+- java의 `Collections` 패키지의 메서드를 호출해서 인플레이스 한다.
+
+### 불변 리스트
+
+```kotlin
+var ints = listOf(1, 3, 2, 5)
+println(ints.takeLast(2)) // 2, 4
+println(ints.sorted()) // 1, 2, 3, 4
+println(ints.first()) // 1
+println(ints) // 1, 3, 2, 5 
+```
+
+- `sorted()` : 해당 리스트를 정렬한 새로운 리스트를 만들어서 반환한다.
+- `revered()` : 해당 리스트를 역순으로 뒤집은 새로운 리스트를 만들어서 반환한다.
+- `first()` : 리스트의 첫번째 요소를 반환한다.
+- `taskLast(<숫자>)` : 리스트 마지막요소에 인자의 크기만큼 잘라서 반환한다. → 가변 리스트와 동일
+- 불변리스트의 요소를 조작하는 확장함수에는 과거형인 `ed` 가 붙는다!
+  - 실제로 구현체를 보면 불변리스트는 직접 수정이 불가능하기 때문에 가변 리스트에 복사해서 가변리스트를 조작한 후 반환한다.
+
+### 불변리스트의 연산 관련 함수는 리스트를 복사한후 변경하고 새로운 리스트를 반환한다.
+
+<img src="images/list-4.png" style="width: 300px">  
+
+<img src="images/list-5.png" style="width: 300px">
+
+<img src="images/list-6.png" style="width: 300px">
+
 - 불변 리스트에 reverse, sort 함수를 호출하면 해당 리스트가 조작되지 않는다.
 - `sort`와 `reverse` 함수 구현체를 보면 가변 리스트에 복사해서 가변리스트를 조작한 후 반환한다.
 - 반환타입이 있다 → 새로운 리스트를 반환한다.
