@@ -17,11 +17,11 @@
 
 ## 진행 내역
 
-|    | 제목                                                                                  |
-|----|-------------------------------------------------------------------------------------|
-| 1부 | [프로그래밍 기초](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter1)    |
-| 2부 | [객체 소개](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter2)       |
-| 3부 | [사용성](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter3)         |
+|    | 제목                                                                                  | 발표자 | 스터디 일자 |
+|----|-------------------------------------------------------------------------------------|-----------|------|
+| 1부 | [프로그래밍 기초](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter1)    | [Hju95](https://github.com/Hju95) | 24. 7. 4. 목 |
+| 2부 | [객체 소개](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter2)       | [yoonseon12](https://github.com/yoonseon12) | 24. 7. 11. 목 |
+| 3부 | [사용성](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter3)         | 
 | 4부 | [함수형 프로그래밍](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter4)   |
 | 5부 | [객체 지향 프로그래밍](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter5) |
 | 6부 | [실패 방지하기](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter6)     |
