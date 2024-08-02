@@ -23,7 +23,7 @@
 | 2부 | [객체 소개](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter2)       | [yoonseon12](https://github.com/yoonseon12) | 24. 7. 11. 목 |
 | 3부 | [사용성](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter3)         | [stoneHee99](https://github.com/stoneHee99) | 24. 7. 18. 목 |
 | 4부 | [함수형 프로그래밍](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter4)   | [Hju95](https://github.com/Hju95) | 24. 7. 25. 목 |
-| 5부 | [객체 지향 프로그래밍](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter5) |
+| 5부 | [객체 지향 프로그래밍](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter5) | [Hju95](https://github.com/Hju95), [yoonseon12](https://github.com/yoonseon12)| 24. 8. 1. 목  | 
 | 6부 | [실패 방지하기](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter6)     |
 | 7부 | [파워 툴](https://github.com/brdm-study/atomic-kotlin-study/tree/main/chapter7)        |
 | 부록 | [부록](https://github.com/brdm-study/atomic-kotlin-study/tree/main/appendix)          |
